@@ -13,5 +13,5 @@ The lectures in this training material shall be formated using the templates in 
 To your new working folder of the lecture.
 
 ## Some instructions how to use notebooks as presentation tool
-This notebook gives you an idea how to prepare your lectures:
-<a href="https://nbviewer.jupyter.org/github/ImagingLectures/IAEA-eLearning2/blob/main/template/TemplateInstructions.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>
+[A notebook](https://nbviewer.jupyter.org/github/ImagingLectures/IAEA-eLearning2/blob/main/template/TemplateInstructions.ipynb) notebook to give you an idea how to prepare your lectures.
+
