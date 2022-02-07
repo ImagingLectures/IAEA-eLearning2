@@ -1,5 +1,8 @@
 # IAEA Neutron Imaging e-Learning 2.0
 
+## Lectures
+[Introduction to images and noise](https://mybinder.org/v2/gh/ImagingLectures/IAEA-eLearning2/5e212846ca7ac0f4628f2a0a24d268b57b501678?urlpath=lab%2Ftree%2Flectures%2F01-ImagesAndNoise%2FIntroduction2Images.ipynb)
+
 ## Template
 The lectures in this training material shall be formated using the templates in folder ```templates\```. Copy the files:
 
