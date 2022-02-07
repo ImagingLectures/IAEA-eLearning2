@@ -1,7 +1,7 @@
 # IAEA Neutron Imaging e-Learning 2.0
 
 ## Lectures
-1. Introduction to images and noise [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ImagingLectures/IAEA-eLearning2/HEAD?labpath=lectures%2F01-ImagesAndNoise%2FIntroduction2Images.ipynb) [![Slides](https://img.shields.io/badge/view-slides-blue)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-01/01-Introduction.ipynb)
+1. Introduction to images and noise [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ImagingLectures/IAEA-eLearning2/HEAD?labpath=lectures%2F01-ImagesAndNoise%2FIntroduction2Images.ipynb) [![Slides](https://img.shields.io/badge/view-slides-blue)](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/IAEA-eLearning2/blob/main/lectures/01-ImagesAndNoise/Introduction2Images.ipynb)
 ## Template
 The lectures in this training material shall be formated using the templates in folder ```templates\```. Copy the files:
 
